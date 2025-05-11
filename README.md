@@ -1,2 +1,3 @@
-![2025-05-11_08-43-57](https://github.com/user-attachments/assets/6d5d89c8-ce17-4a71-93fd-4881f70bb375)
-![2025-05-11_08-45-05](https://github.com/user-attachments/assets/b54792e7-3c73-433a-b9e6-6955dee34d2e)
+Игра написанная на чистом JavaScript. В игре нужно управлять маленьким Дино, перепрыгивая движущийся кактус, ему навстречу. При столкновении с кактусом, игра заканчивается уведомлением "GAME OVER!"
+
+![5](https://github.com/user-attachments/assets/ccf5d540-0085-455c-9132-f7ce45373dca)
